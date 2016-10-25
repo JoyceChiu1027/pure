@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back"
+    tools:context=".ChangeNichengActivity" >
+
+	<include 
+	    android:id="@+id/top"
+	    layout="@layout/top"/>
+    
+	<EditText 
+        android:id="@+id/nicheng_input"
+        android:layout_below="@id/top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:autoText="true"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:textSize="@dimen/space_14"
+        android:padding="10dp"/>
+	
+</RelativeLayout>

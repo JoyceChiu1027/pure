@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 黑色 -->
+    <color name="black">#000000</color>
+    <!-- 白色 -->
+    <color name="white">#ffffff</color>
+    <!-- 透明 -->
+    <color name="transparent">#00000000</color>
+    <!-- button红色 -->
+    <color name="absolute">#f97526</color>
+    <color name="blue">#25b6ed</color>
+    
+    <color name="null_color">#00000000</color>
+    <!-- 背景 -->
+    <color name="back">#eeeeee</color>
+    <color name="topbar_title_text_color">#ffffff</color>
+    <color name="base_background">#f9f9f9</color>
+    <color name="title_gray">#333333</color>
+    <color name="text_gray">#666666</color>
+    <color name="module_title_gray">#666666</color>
+     <color name="topbar_bg_black">#39303f</color>
+     <color name="text_blue">#1A78BD</color>
+<!--     <color name="title_text_color">#333333</color>
+    <color name="detail_text_color">#666666</color> -->
+    <color name="more_text_color">#999999</color>
+    <color name="unavailable_bg_color">#C0C0C0</color>
+    <!-- 灰色 -->
+    <color name="grey">#808080</color>
+    <color name="grey_focused">#d9d9d9</color>
+    <color name="grey_line">#cccccc</color>
+    <color name="base_list_text_grey">#5c5c5c</color>
+    <color name="list_divider_normal_color">#eeeeee</color>
+    <!-- 灰色 -->
+    <color name="gar">#BDBDBD</color>
+    <color name="me_ba">#0085CF</color>
+    <color name="me_bu">#4DAADD</color>
+</resources>

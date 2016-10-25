@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/menu/yewu_ding.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/menu/yewu_ding.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/menu/gu_zhang.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/menu/gu_zhang.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/menu/version.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/menu/version.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/menu/bianmin.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/menu/bianmin.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/menu/about_us.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/menu/about_us.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/menu/zhi_nan.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/menu/zhi_nan.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/menu/jiemu_yugao.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/menu/jiemu_yugao.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/menu/pro_list.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/menu/pro_list.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/menu/my_collection_list.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/menu/my_collection_list.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/menu/install_new_services.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/menu/install_new_services.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/menu/new_yewu_submit.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/menu/new_yewu_submit.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/menu/news.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/menu/news.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/menu/pay.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/menu/pay.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/menu/tv_yewu_de.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/menu/tv_yewu_de.xml"
+    }
+]

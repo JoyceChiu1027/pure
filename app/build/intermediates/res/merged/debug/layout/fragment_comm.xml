@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/topbar"
+        layout="@layout/top"
+        android:visibility="gone" />
+
+    <com.bupt.chengde.widget.CustomFrameLayout
+        android:id="@+id/web_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <com.bupt.chengde.widget.XListView
+            android:id="@+id/comm_listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:divider="@null"
+            android:dividerHeight="8dp" />
+
+        <include layout="@layout/common_net_error" />
+    </com.bupt.chengde.widget.CustomFrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back"
+    android:orientation="vertical" >
+
+    <include layout="@layout/top" />
+<!-- 
+    <RelativeLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" > -->
+
+ <ProgressBar
+     android:id="@+id/progress_bar"
+     style="@style/update_progress"
+     android:layout_width="match_parent"
+     android:layout_height="3dp"
+     android:max="100"
+     android:visibility="gone" />
+
+        <com.bupt.chengde.widget.CustomFrameLayout
+            android:id="@+id/web_frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <WebView
+                android:id="@+id/common_web"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <include layout="@layout/common_net_error" />
+        </com.bupt.chengde.widget.CustomFrameLayout>
+  
+<!--     </RelativeLayout>
+ -->
+</LinearLayout>

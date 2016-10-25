@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context="com.bupt.chshtv.ui.JiemuActivity" >
+
+    <include layout="@layout/top" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <TextView
+            android:id="@+id/back"
+            android:layout_width="6.5dp"
+            android:layout_height="11dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="4dp"
+            android:background="@drawable/btn_last_normal"
+            android:clickable="true" />
+
+        <!--
+             <ImageView
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="4dp"
+            android:clickable="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/btn_last_normal" />
+        -->
+
+        <TextView
+            android:id="@+id/yesterday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="8dp"
+            android:layout_toRightOf="@id/back"
+            android:textColor="@color/absolute"
+            android:textSize="@dimen/programm_date_selector_sp" />
+
+        <TextView
+            android:id="@+id/today"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="今天"
+            android:textColor="@color/absolute"
+            android:textSize="@dimen/programm_date_selector_sp" />
+
+        <TextView
+            android:id="@+id/next"
+            android:layout_width="6.5dp"
+            android:layout_height="11dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="right"
+            android:layout_marginRight="4dp"
+            android:background="@drawable/btn_next_normal"
+            android:clickable="true" />
+
+        <!--
+             <ImageView
+            android:id="@+id/next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="right"
+            android:layout_marginRight="4dp"
+            android:clickable="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/btn_next_normal" />
+        -->
+
+        <TextView
+            android:id="@+id/tommorw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="8dp"
+            android:layout_toLeftOf="@id/next"
+            android:textColor="@color/absolute"
+            android:textSize="@dimen/programm_date_selector_sp" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/listviewid"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@color/list_divider_normal_color"
+        android:dividerHeight="@dimen/list_divider_normal_height"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false" />
+
+</LinearLayout>

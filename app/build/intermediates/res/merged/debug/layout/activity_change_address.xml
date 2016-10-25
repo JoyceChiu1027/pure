@@ -1,0 +1,145 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back"
+    android:orientation="vertical"
+    tools:context=".ChangeAddressActivity" >
+
+    <include layout="@layout/top"/>
+    
+    <LinearLayout 
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+        
+        
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:paddingLeft="30dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="省市"
+            android:textSize="@dimen/space_14"
+            android:textColor="@color/black"/>
+        
+        <Spinner 
+            android:id="@+id/ch_add_provice"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"/>
+        
+        <Spinner 
+            android:id="@+id/ch_add_city"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"/>
+        
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:layout_marginTop="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+        
+        
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:paddingLeft="30dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="区县"
+            android:textSize="@dimen/space_14"
+            android:textColor="@color/black"/>
+        
+        <Spinner 
+            android:id="@+id/ch_add_area"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:layout_weight="1"/>
+        
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+        
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:layout_marginTop="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+        
+        
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:paddingLeft="30dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="街道"
+            android:textSize="@dimen/space_14"
+            android:textColor="@color/black"/>
+        
+        <EditText 
+            android:id="@+id/ch_add_jiedao"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            android:hint="街道信息"
+            android:textSize="@dimen/space_12"
+            android:layout_gravity="center"
+            android:layout_weight="2"/>
+        
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:layout_marginTop="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+        
+        
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:paddingLeft="30dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="详细信息"
+            android:textSize="@dimen/space_14"
+            android:textColor="@color/black"/>
+        
+        <EditText
+            android:id="@+id/ch_add_detail"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            android:hint="详细地址信息"
+            android:textSize="@dimen/space_12"
+            android:layout_gravity="center"
+            android:layout_weight="2"/>
+        
+    </LinearLayout>
+    
+</LinearLayout>

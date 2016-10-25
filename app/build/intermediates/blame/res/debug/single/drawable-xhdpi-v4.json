@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_shake_to_share_back.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/drawable-xhdpi/ssdk_oks_shake_to_share_back.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/default_ptr_flip.png",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/Chengde/library_pulltorefresh/unspecified/res/drawable-xhdpi-v4/default_ptr_flip.png"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/indicator_arrow.png",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/Chengde/library_pulltorefresh/unspecified/res/drawable-xhdpi-v4/indicator_arrow.png"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/default_ptr_rotate.png",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/Chengde/library_pulltorefresh/unspecified/res/drawable-xhdpi-v4/default_ptr_rotate.png"
+    }
+]

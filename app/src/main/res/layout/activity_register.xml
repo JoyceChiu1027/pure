@@ -1,0 +1,123 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back"
+    tools:context=".RegisterActivity" >
+
+    <include
+        android:id="@+id/top"
+        layout="@layout/top"/>
+
+    <EditText
+        android:id="@+id/num"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:inputType="number"
+        android:hint="请输入注册的手机号码"
+        android:layout_below="@id/top"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:textColorHint="@color/gar"
+        android:padding="15dp"
+        android:textSize="@dimen/space_14" />
+
+     <!--  <View
+        android:id="@+id/jiange2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/num" />
+
+    <LinearLayout
+        android:id="@+id/con"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/jiange2"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="5dp" 
+        android:visibility="gone">
+
+        <EditText
+            android:id="@+id/yanzhengma"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:inputType="number"
+            android:textColor="@color/black"
+            android:textColorHint="@color/gar"
+            android:background="@null"
+            android:textSize="@dimen/space_14"/>
+
+        <Button
+            android:id="@+id/huoqu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:background="@drawable/btn_back"
+            android:padding="10dp"
+            android:textSize="@dimen/space_14"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/jiange3"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/con" />
+
+    <EditText
+        android:id="@+id/chu_pwd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/jiange3"
+        android:background="@color/white"
+        android:inputType="text"
+        android:textColor="@color/black"
+        android:textColorHint="@color/gar"
+        android:padding="20dp"
+        android:textSize="@dimen/space_14"
+        android:visibility="gone"/>
+    
+    <View
+        android:id="@+id/jiange4"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/chu_pwd" />
+    
+  <EditText
+        android:id="@+id/tuijian_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/jiange4"
+        android:background="@color/white"
+        android:inputType="text"
+        android:textColor="@color/black"
+        android:textColorHint="@color/gar"
+        android:padding="20dp"
+        android:textSize="@dimen/space_14"
+        android:visibility="gone"/>
+
+    <View
+        android:id="@+id/jiange5"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/tuijian_phone" /> -->
+
+    <Button
+        android:id="@+id/regiser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_below="@id/num"
+        android:background="@drawable/sub_bg"
+        android:padding="10dp"
+        android:text="确认"
+        android:textColor="@color/white"
+        android:textSize="@dimen/space_20"/>
+
+</RelativeLayout>

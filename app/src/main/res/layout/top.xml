@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="42dp"
+    android:background="@color/blue" >
+
+    <TextView
+        android:id="@+id/top_sub"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:text="@string/top_sunmit"
+        android:textColor="@drawable/itemcolor1"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/top_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:textColor="@color/white"
+        android:textSize="@dimen/topbar_title_sp" />
+
+    <TextView
+        android:id="@+id/top_cancle"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="15dp"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:text="@string/top_cancle"
+        android:textColor="@drawable/itemcolor"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/top_back"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+       
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/base_back_icon"
+            android:layout_gravity="center_vertical" />
+    </LinearLayout>
+
+</RelativeLayout>

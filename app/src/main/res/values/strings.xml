@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">承德96888</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="main_zhy">主页</string>
+    <string name="main_yyt">营业厅</string>
+    <string name="main_se">服务</string>
+    <string name="main_me">我的</string>
+    <string name="me_jifeng">积分商城</string>
+    <string name="me_shoucang">我的收藏</string>
+    <string name="me_tuijian">推荐给好友</string>
+    <string name="me_bangding">绑定智能卡</string>
+    <string name="me_choujiang">抽奖</string>
+    <string name="me_shiyong">App使用指南</string>
+    <string name="me_wenti">常见问题列表</string>
+    <string name="me_aboutus">关于我们</string>
+    <string name="me_banben">版本信息</string>
+    <string name="me_login">登录/注册</string>
+    <string name="me_wel">您好，欢迎来到承德广电</string>
+    <string name="me_qian">签到赚积分</string>
+    <string name="phone">96888</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <!-- 登录页面 -->
+    <string name="login">登录</string>
+    <string name="account">账户</string>
+    <string name="input_account">请输入用户名/手机号</string>
+    <string name="pwd">密码</string>
+    <string name="input_pwd">请输入用户密码</string>
+    <string name="loginbtn">立即登录</string>
+    <string name="wangji">忘记密码？</string>
+    <string name="zhuce">新注册用户</string>
+    <string name="title_activity_find_password">FindPasswordActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="top_sunmit">提交</string>
+    <string name="top_cancle">取消</string>
+
+    <!-- 注册页面 -->
+    <string name="newzhuce">新用户注册</string>
+    <string name="num">请输入手机号</string>
+    <string name="huoquyanzhengma">点击获取验证码</string>
+    <string name="yanzhengma">请输入获取的验证码</string>
+    <string name="chu_pwd">请输入初始化密码</string>
+    <string name="regiser">立即注册</string>
+
+    <!-- 找回密码 -->
+    <string name="zhao_top">找回密码</string>
+    <string name="zhao_num">请输入手机号</string>
+    <string name="zhao_mima">新密码</string>
+    <string name="zhao_btn">重置密码</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="networksettings">网络设置</string>
+    <string name="notavailable">当前网络不可用!请设置网络</string>
+    <string name="mobilenetwork">移动网络</string>
+    <string name="WIFIsetting">WIFI设置</string>
+    <string name="nick_name_hint">请输入昵称</string>
+    <string name="tuijian_phone_hint">请输入推荐人手机号</string>
+    <!-- 个人信息 MineInfromationActivity -->
+    <string name="min_touxing">头像</string>
+    <string name="min_nicheng">昵称</string>
+    <string name="min_phone">手机号</string>
+    <string name="min_changepwd">修改密码</string>
+    <string name="min_sex">性别</string>
+    <string name="min_birthday">生日</string>
+    <string name="min_address">地址</string>
+    <string name="min_jifen">我的积分</string>
+    <string name="min_logout">退出登录</string>
+
+    <!-- 快速报修 -->
+    <string name="bao_name">请输入姓名</string>
+    <string name="bao_phone">请输入手机号</string>
+    <string name="bao_cardid">请输入身份证号</string>
+    <string name="bao_address">请输入维修详细地址</string>
+    <string name="bao_ca">请输入智能卡号前10位</string>
+    <string name="bind">绑定</string>
+    <string name="pay_address">请输入详细地址</string>
+
+    <!-- 修改密码 -->
+    <string name="xiu_queren">确认新密码</string>
+    <string name="xiu_input_queren">请输入确新密码</string>
+    <string name="xiu_now_pwd">当前密码</string>
+    <string name="xiu_input_now_pwd">请输入当前密码</string>
+    <string name="xiu_input_new_pwd">请输入6-18位字母数字组合</string>
+    <string name="queren">确认</string>
+    <string name="ver_upda">点击更新</string>
+    <string name="ver_android">承德96888 Android版</string>
+    <string name="ver_now">当前版本：</string>
+    <string name="ver_new">最新版本：</string>
+    <string name="title_activity_bianmin">BianminActivity</string>
+    <string name="title_activity_jiemu_yugao">JiemuYugaoActivity</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_tv_yewu_de">TvYewuDeActivity</string>
+    <string name="title_activity_install_new_services">InstallNewServicesActivity</string>
+    <string name="title_activity_new_yewu_submit">NewYewuSubmitActivity</string>
+    <string name="title_activity_gu_zhang">GuZhangActivity</string>
+    <string name="title_activity_yewu_ding">YewuDingActivity</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+    <string name="title_activity_zhi_nan">ZhiNanActivity</string>
+    <string name="title_activity_my_collection">MyCollectionActivity</string>
+    <string name="title_activity_pro_list">ProListActivity</string>
+    <string name="title_activity_version">VersionActivity</string>
+    <string name="title_activity_pay">PayActivity</string>
+    <string name="title_activity_jiemu_two">JiemuTwoActivity</string>
+    <string name="title_activity_jinu_three">JinuThreeActivity</string>
+    <string name="title_activity_sales_active_detil">SalesActiveDetilActivity</string>
+    <string name="title_activity_my_collection_list">MyCollectionListActivity</string>string
+    <!--<string name=""></string>-->
+    
+    <string name="server_no_data">服务器返回无数据</string>
+    <string name="server_time_out">抱歉！网络连接出现问题\n请检查您的网络配置！</string>
+    <string name="server_no_more">没有更多</string>
+
+    <string name="dialog_positive">确定</string>
+    <string name="dialog_negative">取消</string>
+</resources>

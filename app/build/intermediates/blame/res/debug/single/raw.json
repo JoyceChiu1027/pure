@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/raw/loop.mp3",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/raw/loop.mp3"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/raw/result.mp3",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/raw/result.mp3"
+    }
+]

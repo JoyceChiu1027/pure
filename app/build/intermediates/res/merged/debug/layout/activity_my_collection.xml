@@ -1,0 +1,93 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back"
+    android:orientation="vertical"
+    tools:context=".MyCollectionActivity" >
+
+    <include layout="@layout/top" />
+  
+
+    <LinearLayout
+        android:id="@+id/collect_bianmin"
+        style="@style/me_linear_style"
+        android:layout_marginTop="1dp" >
+
+        <TextView
+            style="@style/me_textview_name"
+            android:text="便民" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView style="@style/me_textview_jiantou" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/collect_photo"
+        style="@style/me_linear_style"
+        android:layout_marginTop="1dp" >
+
+        <TextView
+            style="@style/me_textview_name"
+            android:text="摄影" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView style="@style/me_textview_jiantou" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/collect_travel"
+        style="@style/me_linear_style"
+        android:layout_marginTop="1dp" >
+
+        <TextView
+            style="@style/me_textview_name"
+            android:text="旅游" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView style="@style/me_textview_jiantou" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/collect_home"
+        style="@style/me_linear_style"
+        android:layout_marginTop="1dp" >
+
+        <TextView
+            style="@style/me_textview_name"
+            android:text="主页" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView style="@style/me_textview_jiantou" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/collect_news"
+        style="@style/me_linear_style"
+        android:layout_marginTop="1dp" >
+
+        <TextView
+            style="@style/me_textview_name"
+            android:text="新闻" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView style="@style/me_textview_jiantou" />
+    </LinearLayout>
+
+</LinearLayout>

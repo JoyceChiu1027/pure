@@ -1,0 +1,140 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back">
+
+    <TextView
+        android:id="@+id/topText"
+        android:layout_width="match_parent"
+        android:textSize="@dimen/space_22"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:background="@color/white"
+        android:layout_height="35dp"
+        android:text="@string/login" />
+
+    <View
+        android:id="@+id/jiange1"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_below="@id/topText"/>
+
+    <LinearLayout
+        android:id="@+id/acc"
+        android:layout_below="@id/jiange1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/log_account"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textSize="@dimen/space_22"
+            android:textColor="@color/black"
+            android:text="@string/account"/>
+
+        <EditText
+            android:id="@+id/account"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColorHint="@color/gar"
+            android:textColor="@color/black"
+            android:background="@null"
+            android:textSize="@dimen/space_14"
+            android:hint="@string/input_account"/>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/jiange2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/acc"/>
+
+    <LinearLayout
+        android:id="@+id/pwd"
+        android:layout_below="@id/jiange2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/log_pwd"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="@color/black"
+            android:textSize="@dimen/space_22"
+            android:text="@string/pwd"/>
+
+        <EditText
+            android:id="@+id/account_pwd"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@null"
+            android:textColor="@color/black"
+            android:inputType="textPassword"
+            android:textColorHint="@color/gar"
+            android:textSize="@dimen/space_14"
+            android:hint="@string/input_pwd"/>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/jiange3"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_below="@id/pwd"/>
+
+    <Button
+        android:id="@+id/loginBtn"
+        android:background="@drawable/sub_bg"
+        android:text="@string/loginbtn"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/space_20"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/jiange3"/>
+
+    <TextView
+        android:id="@+id/wangjimima"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/wangji"
+        android:layout_below="@id/loginBtn"
+        android:textColor="@color/gar"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/btn_newregiser"
+        android:padding="10dp"
+        android:clickable="true"
+        android:textSize="@dimen/space_14"/>
+
+    <TextView
+        android:id="@+id/zhuce"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/zhuce"
+        android:textColor="@color/gar"
+        android:layout_below="@id/loginBtn"
+        android:layout_alignParentRight="true"
+        android:padding="10dp"
+        android:background="@drawable/btn_newregiser"
+        android:clickable="true"
+        android:textSize="@dimen/space_14"/>
+
+</RelativeLayout>

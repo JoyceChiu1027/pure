@@ -1,0 +1,80 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/top"
+        layout="@layout/top" />
+
+    <TextView
+        android:id="@+id/notice_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:gravity="center_horizontal"
+        android:textColor="@color/text_gray"
+        android:textSize="@dimen/space_16"
+        android:visibility="gone" />
+
+    <EditText
+        android:id="@+id/code_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:background="@color/white"
+        android:hint="请输入获取的验证码"
+        android:inputType="number"
+        android:padding="15dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/gar"
+        android:textSize="@dimen/space_14"/>
+    <EditText
+        android:id="@+id/nickname_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:hint="请输入昵称"
+        android:inputType="text"
+        android:padding="15dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/gar"
+        android:textSize="@dimen/space_14"
+        android:visibility="gone"/>
+     <EditText
+        android:id="@+id/tuijianren_phone_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:hint="请输入推荐人手机号"
+        android:inputType="phone"
+        android:padding="15dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/gar"
+        android:textSize="@dimen/space_14"
+        android:visibility="gone"/>
+    <Button
+        android:id="@+id/next_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/sub_bg"
+        android:padding="10dp"
+        android:text="确认"
+        android:textColor="@color/white"
+        android:textSize="@dimen/space_20"/>
+
+    <Button
+        android:id="@+id/get_code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/sub_bg"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:textSize="@dimen/space_20" />
+
+</LinearLayout>

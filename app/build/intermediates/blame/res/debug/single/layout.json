@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_yewu_det.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_yewu_det.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_bianmin_detail.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_bianmin_detail.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/top.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/top.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_yewu_ding.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_yewu_ding.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/common_net_error.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/common_net_error.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/fragment_se.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/fragment_se.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/select_pic_dialog.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/select_pic_dialog.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_tv_yewu.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_tv_yewu.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/item1.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/item1.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_launcher.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_launcher.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/content_xlistview_layout.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/content_xlistview_layout.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/jiemuitem.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/jiemuitem.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/bianmin_item.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/bianmin_item.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_pro_list.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_pro_list.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/operation_layout.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/operation_layout.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/item3.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/item3.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_mine_infromation.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_mine_infromation.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/fragment_me.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/fragment_me.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/fragment_home.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/jpush_popwin_layout.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/cn.jiguang/jpush/2.2.0/res/layout/jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/yyt_item.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/yyt_item.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/fragment_photographer.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/fragment_photographer.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/photographer_listview_item.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/photographer_listview_item.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_pay.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_pay.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_register2.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_register2.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/home_item.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/home_item.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_service_detail_layout.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_service_detail_layout.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_change_address.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_change_address.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/item_grid_share_item.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/item_grid_share_item.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_lottery.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_lottery.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/home_list_top.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/home_list_top.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/jpush_webview_layout.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/cn.jiguang/jpush/2.2.0/res/layout/jpush_webview_layout.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/comments_list_item.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/comments_list_item.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/xlistview_footer.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/xlistview_footer.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_version.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_version.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/fast_diallog.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/fast_diallog.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_launcher_viewpager.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_launcher_viewpager.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_bianmin.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_bianmin.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_my_collection.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_my_collection.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/Chengde/library_pulltorefresh/unspecified/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/fragment_comm2.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/fragment_comm2.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/fragment_fast.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/fragment_fast.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/home_listview_item.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/home_listview_item.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/layout_share_layout.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/layout_share_layout.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/photographer_listview_item_header.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/photographer_listview_item_header.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_travel_view_spot.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_travel_view_spot.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_show_webimage.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_show_webimage.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/xlistview_header.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/xlistview_header.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_new_yewu_submit.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_new_yewu_submit.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/comm_item3.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/comm_item3.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_install_new_services.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_install_new_services.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_my_collection_list.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_my_collection_list.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/tv_item.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/tv_item.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_gu_zhang.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_gu_zhang.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_about_us.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_service_detail.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_service_detail.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/comm_item2.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/comm_item2.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_change_nicheng.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_change_nicheng.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_investigation.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_investigation.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_change_pwd.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_change_pwd.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/topitem.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/topitem.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/include_titlebar.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/include_titlebar.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_change_sex.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_change_sex.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_yyt_addr_info.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_yyt_addr_info.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/comm_item1.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/comm_item1.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/customprogressdialog.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/customprogressdialog.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/Chengde/library_pulltorefresh/unspecified/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_news.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_news.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_tv_yewu_de.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_tv_yewu_de.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/fragment_changgui.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/fragment_changgui.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/fragment_yyt.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/fragment_yyt.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_channel_list.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_channel_list.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_zhi_nan.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_zhi_nan.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_mac_business.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_mac_business.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/item_ye.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/item_ye.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_ad_detail.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_ad_detail.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_home_suggest_more.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_home_suggest_more.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_photograph.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_photograph.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/fragment_lazy_loading.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/fragment_lazy_loading.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/yyt_grid_item.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/yyt_grid_item.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_travel.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_travel.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/dialog_comment.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/dialog_comment.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/item2.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/item2.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_jiemu_yugao.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_jiemu_yugao.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/problemlist_item.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/problemlist_item.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/activity_jiemu_three.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/activity_jiemu_three.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/fragment_comm.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/fragment_comm.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/item_guide.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/item_guide.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/layout/comm_item.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/layout/comm_item.xml"
+    }
+]

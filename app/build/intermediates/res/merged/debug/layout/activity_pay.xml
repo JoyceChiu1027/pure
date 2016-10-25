@@ -1,0 +1,98 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".PayActivity" >
+
+    <include
+        android:id="@+id/top"
+        layout="@layout/top" />
+
+    <TextView 
+        android:id="@+id/pay_price"
+        android:layout_below="@id/top"
+        android:layout_marginTop="20dp"
+        android:text="价格：100元/月"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/back"
+        android:textColor="@color/black"
+        android:textSize="@dimen/space_14"
+        android:padding="10dp"/>
+    
+    <EditText 
+        android:id="@+id/pay_name"
+        android:layout_below="@id/pay_price"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/back"
+        android:hint="@string/bao_name"
+        android:textColor="@color/black"
+        android:textSize="@dimen/space_14"
+        android:padding="10dp"/>
+    
+    <EditText 
+        android:id="@+id/pay_address"
+        android:layout_below="@id/pay_name"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/back"
+        android:hint="@string/pay_address"
+        android:textColor="@color/black"
+        android:textSize="@dimen/space_14"
+        android:padding="10dp"/>
+    
+    <EditText 
+        android:id="@+id/pay_phone"
+        android:layout_below="@id/pay_address"
+        android:layout_marginTop="5dp"
+        android:inputType="phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/back"
+        android:hint="@string/bao_phone"
+        android:textColor="@color/black"
+        android:textSize="@dimen/space_14"
+        android:padding="10dp"/>
+    
+    <EditText 
+        android:id="@+id/pay_idCard"
+        android:layout_below="@id/pay_phone"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/back"
+        android:hint="@string/bao_cardid"
+        android:textColor="@color/black"
+        android:textSize="@dimen/space_14"
+        android:padding="10dp"
+        />
+    <EditText 
+        android:id="@+id/pay_caCard"
+        android:layout_below="@id/pay_phone"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/back"
+        android:hint="@string/bao_ca"
+        android:inputType="number"
+        android:textColor="@color/black"
+        android:textSize="@dimen/space_14"
+        android:padding="10dp"
+        android:visibility="gone"/>
+    <Button
+        android:id="@+id/sub"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/sub_bg"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="提交订单"
+        android:textColor="@color/white"
+        android:textSize="@dimen/space_22" />
+
+</RelativeLayout>

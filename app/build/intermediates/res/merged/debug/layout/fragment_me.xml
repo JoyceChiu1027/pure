@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back"
+    android:id="@+id/pa"
+    android:fillViewport="true" >
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout 
+            android:id="@+id/me_login"
+            android:background="@color/me_ba"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            
+            <ImageView
+                android:id="@+id/me_touxiang"
+                android:clickable="true"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="30dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/default_head_icon" />
+            
+            <TextView 
+                android:id="@+id/cust_name_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/app_name"
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/white"
+                android:textSize="@dimen/space_20"
+                android:layout_marginTop="10dp"/>
+            
+            <TextView 
+                android:id="@+id/me_jifen"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/white"
+                android:textSize="@dimen/space_14"
+                android:layout_marginTop="5dp"/>
+            
+            <Button 
+                android:id="@+id/me_qiandao"
+                android:background="@drawable/me_bu_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/me_qian"
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/white"
+                android:textSize="@dimen/space_12"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="30dp"/>
+            
+        </LinearLayout>
+        
+        <LinearLayout 
+            android:id="@+id/me_nologin"
+            android:background="@color/white"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="22dp"
+                android:layout_marginBottom="22dp"
+                android:layout_marginLeft="28dp"
+                android:layout_gravity="center"
+                android:background="@drawable/default_head_icon" />
+            
+            <LinearLayout 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="30dp"
+                android:layout_gravity="center_vertical|center_horizontal">
+                
+                <Button 
+                    android:id="@+id/login"
+                    android:layout_width="80dp"
+                    android:layout_height="30dp"
+                    android:gravity="center"
+                    android:background="@drawable/denglu_back"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="@color/black"
+                    android:text="@string/me_login"
+                    android:padding="1dp"/>
+                
+                <TextView 
+                    android:layout_marginTop="2dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/grey"
+                    android:text="@string/me_wel"/>
+                
+            </LinearLayout>
+            
+        </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/me_jifeng"
+            android:layout_marginTop="20dp"
+            style="@style/me_linear_style">
+
+            <TextView
+                style="@style/me_textview_tupian"
+                android:background="@drawable/me_shangcheng" />
+
+            <TextView
+                style="@style/me_textview_name"
+                android:text="@string/me_jifeng" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <TextView
+                style="@style/me_textview_jiantou" />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/me_shoucang"
+            android:layout_marginTop="1dp"
+            style="@style/me_linear_style">
+
+            <TextView
+                style="@style/me_textview_tupian"
+                android:background="@drawable/me_shoucang" />
+
+            <TextView
+                style="@style/me_textview_name"
+                android:text="@string/me_shoucang" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <TextView
+                style="@style/me_textview_jiantou" />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/me_tuijian"
+            android:layout_marginTop="1dp"
+            style="@style/me_linear_style">
+
+            <TextView
+                style="@style/me_textview_tupian"
+                android:background="@drawable/me_tuijian" />
+
+            <TextView
+                style="@style/me_textview_name"
+                android:text="@string/me_tuijian" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <TextView
+                style="@style/me_textview_jiantou" />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/me_bangding"
+            android:layout_marginTop="20dp"
+            style="@style/me_linear_style">
+
+            <TextView
+                style="@style/me_textview_tupian"
+                android:background="@drawable/me_bangding" />
+
+            <TextView
+                style="@style/me_textview_name"
+                android:text="@string/me_bangding" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <TextView
+                style="@style/me_textview_jiantou" />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/me_choujiang"
+            android:layout_marginTop="1dp"
+            style="@style/me_linear_style">
+
+            <TextView
+                style="@style/me_textview_tupian"
+                android:background="@drawable/me_choujiang" />
+
+            <TextView
+                style="@style/me_textview_name"
+                android:text="@string/me_choujiang" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <TextView
+                style="@style/me_textview_jiantou" />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/me_shiyong"
+            android:layout_marginTop="20dp"
+            style="@style/me_linear_style">
+
+            <TextView
+                style="@style/me_textview_tupian"
+                android:background="@drawable/me_zhinan" />
+
+            <TextView
+                style="@style/me_textview_name"
+                android:text="@string/me_shiyong" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <TextView
+                style="@style/me_textview_jiantou" />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/me_wenti"
+            android:layout_marginTop="1dp"
+            style="@style/me_linear_style">
+
+            <TextView
+                style="@style/me_textview_tupian"
+                android:background="@drawable/me_wenti" />
+
+            <TextView
+                style="@style/me_textview_name"
+                android:text="@string/me_wenti" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <TextView
+                style="@style/me_textview_jiantou" />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/me_aboutus"
+            android:layout_marginTop="1dp"
+            style="@style/me_linear_style">
+
+            <TextView
+                style="@style/me_textview_tupian"
+                android:background="@drawable/me_women" />
+
+            <TextView
+                style="@style/me_textview_name"
+                android:text="@string/me_aboutus" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <TextView
+                style="@style/me_textview_jiantou" />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/me_banben"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="30dp"
+            style="@style/me_linear_style">
+
+            <TextView
+                style="@style/me_textview_tupian"
+                android:background="@drawable/me_banben" />
+
+            <TextView
+                style="@style/me_textview_name"
+                android:text="@string/me_banben" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <TextView
+                style="@style/me_textview_jiantou" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

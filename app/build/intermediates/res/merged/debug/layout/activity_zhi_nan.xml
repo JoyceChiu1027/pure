@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include layout="@layout/top" />
+    <com.bupt.chengde.widget.CustomFrameLayout
+        android:id="@+id/web_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <com.bupt.chengde.widget.XListView
+            android:id="@+id/comm_listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:headerDividersEnabled="false"
+            android:divider="@null"/>
+
+        <include layout="@layout/common_net_error"/>
+    </com.bupt.chengde.widget.CustomFrameLayout>
+
+</LinearLayout>

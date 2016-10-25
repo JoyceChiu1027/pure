@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jpush_richpush_progressbar.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/cn.jiguang/jpush/2.2.0/res/drawable-hdpi-v4/jpush_richpush_progressbar.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jpush_ic_richpush_actionbar_back.png",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/cn.jiguang/jpush/2.2.0/res/drawable-hdpi-v4/jpush_ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/image_holder.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/src/main/res/drawable-hdpi/image_holder.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/default_ptr_rotate.png",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/Chengde/library_pulltorefresh/unspecified/res/drawable-hdpi-v4/default_ptr_rotate.png"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jpush_richpush_btn_selector.xml",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/cn.jiguang/jpush/2.2.0/res/drawable-hdpi-v4/jpush_richpush_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/indicator_arrow.png",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/Chengde/library_pulltorefresh/unspecified/res/drawable-hdpi-v4/indicator_arrow.png"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jpush_ic_richpush_actionbar_divider.png",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/cn.jiguang/jpush/2.2.0/res/drawable-hdpi-v4/jpush_ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/default_ptr_flip.png",
+        "source": "/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/Chengde/library_pulltorefresh/unspecified/res/drawable-hdpi-v4/default_ptr_flip.png"
+    }
+]

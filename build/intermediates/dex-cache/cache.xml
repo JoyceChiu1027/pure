@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/cn.jiguang/jpush/2.2.0/jars/libs/jpush-android-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3935945216601c1a3b5b47122f575e44cdf6a400">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/pre-dexed/debug/jpush-android-2.2.0_0d9b529f9e97763f25d0ba65550df3e74ba4557b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/cn.jiguang/jpush/2.2.0/jars/libs/jpush-android-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3935945216601c1a3b5b47122f575e44cdf6a400">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/transforms/dex/debug/folders/1000/10/jpush-android-2.2.0_0d9b529f9e97763f25d0ba65550df3e74ba4557b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="31ccc48f3f7e96ac7bbdb7d5d11c6cc3b01b6491">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_35769d2679dd0d42751046567422ca08cc8ab3fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.0.0_0c3c06dc2e28f6405482040fdae51bba70c05146/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.0.0_0c3c06dc2e28f6405482040fdae51bba70c05146.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiezhao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_4f7b0d530418974f76c8b084e287d79cdc26c0f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_ac5c06d7ca25806798504312fec472a2831145b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiezhao/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/pre-dexed/debug/glide-3.7.0_7fa7c4dc9fe17108aa19f82358046a367915ab68.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/libs/ksoap2-android-assembly-3.6.2-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b457441023b25f0b6bae28c76be982a4e49a8666">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/transforms/dex/debug/folders/1000/2/ksoap2-android-assembly-3.6.2-jar-with-dependencies_df2a20477f3e0adb661cb58e1c616e7ba47b61cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.0.0_ac5c06d7ca25806798504312fec472a2831145b0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/cn.jiguang/jpush/2.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0fcf4ebe3e27f8ab9120beb72c0cfb214c09bb6f">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/transforms/dex/debug/folders/1000/10/cn.jiguang-jpush-2.2.0_1bd3fc3bd69c013d66c7c967bfb1a8fbdcec80c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiezhao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0_4f7b0d530418974f76c8b084e287d79cdc26c0f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/libs/ksoap2-android-assembly-3.6.2-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b457441023b25f0b6bae28c76be982a4e49a8666">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/pre-dexed/debug/ksoap2-android-assembly-3.6.2-jar-with-dependencies_df2a20477f3e0adb661cb58e1c616e7ba47b61cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_5dcb665eb92567af4ff6c728c2f059547156ebce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b969ea051ccb34318b03c9ebebfeab2c6db3787a">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_df5210bee01693a3a4b47a632a133f51f000356d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/cn.jiguang/jpush/2.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0fcf4ebe3e27f8ab9120beb72c0cfb214c09bb6f">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/pre-dexed/debug/cn.jiguang-jpush-2.2.0_1bd3fc3bd69c013d66c7c967bfb1a8fbdcec80c5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_5dcb665eb92567af4ff6c728c2f059547156ebce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiezhao/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_7fa7c4dc9fe17108aa19f82358046a367915ab68/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/exploded-aar/Chengde/library_pulltorefresh/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="06d6201f8c38a19855b4d35556173ce0b395ee50">
+        <dex dex="/Users/jiezhao/Desktop/AndroidProject/Chengde/app/build/intermediates/pre-dexed/debug/Chengde-library_pulltorefresh-unspecified_90ae2a8cc10a7e05357dbd171a6e3de8d05ec743.jar" />
+    </item>
+
+</items>
